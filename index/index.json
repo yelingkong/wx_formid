@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "formid": "/component/formid/formid"
+  },
+  "navigationBarTitleText": "数据"
+}
